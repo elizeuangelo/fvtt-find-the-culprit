@@ -8,9 +8,8 @@
 	"author": "Moerill",
 	"esmodules": ["js/find-the-culprit.js"],
 	"styles": ["css/find-the-culprit.css"],
-	"manifest": "https://raw.githubusercontent.com/Moerill/fvtt-find-the-culprit/master/module.json",
+	"manifest": "https://raw.githubusercontent.com/elizeuangelo/fvtt-find-the-culprit/testing/module.json",
 	"url": "https://github.com/Moerill/fvtt-find-the-culprit",
-	"download": "https://github.com/Moerill/fvtt-find-the-culprit/releases/download/v1.3.3/v1.3.3.zip",
 	"media": [
 		{
 			"type": "icon",
