@@ -2,7 +2,7 @@
 	"name": "find-the-culprit",
 	"title": "Find the culprit",
 	"description": "This module helps you to find a module causing issues, by automating the process of deactivating and reactivating modules.<br>Just click the 'Find the culprit' button inside Module Management.",
-	"version": "1.3.3",
+	"version": "1.3.5",
 	"minimumCoreVersion": "0.6.0",
 	"compatibleCoreVersion": "1.0.0",
 	"author": "Moerill",
@@ -20,6 +20,6 @@
 	"readme": "https://github.com/Moerill/fvtt-find-the-culprit#find-the-culprit",
 	"bugs": "https://github.com/Moerill/fvtt-find-the-culprit/issues",
 	"changelog": "https://github.com/Moerill/fvtt-find-the-culprit/blob/master/CHANGELOG.md",
-	"download": "https://github.com/elizeuangelo/fvtt-find-the-culprit/archive/refs/tags/v1.3.4.zip",
+	"download": "https://github.com/elizeuangelo/fvtt-find-the-culprit/archive/refs/tags/v1.3.5.zip",
 	"manifestPlusVersion": "1.0.0"
 }
